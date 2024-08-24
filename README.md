@@ -1,29 +1,13 @@
-# projeto-vue-fundamentos
+# Treinaweb: Curso "Vue - Fundamentos".
 
-This template should help get you started developing with Vue 3 in Vite.
+Repositório com o código produzido durante o Curso - "Vue - Fundamentos".
 
-## Recommended IDE Setup
+**Ferramentas utilizadas no Curso**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+-   Vscode
+-   VueJs
+**Lista de commits**
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Aula | Video | Commit | Link
+------ | ------ | ------ | ------
+Aula 6 | 6 | 6-6 Finalizando o projeto | [Download](https://github.com/treinaweb/vue-fundamentos-projeto/archive/19c63f56fc24f4e2f4fa6cc91622a89bdc5ab74c.zip)
